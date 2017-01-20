@@ -32,4 +32,4 @@ I don't have a strong concept yet but I'd like to explore anxiety vs. spectacle 
 
 
 kbye
-! (http://68.media.tumblr.com/b876f0255dd33ce56f9623762d079551/tumblr_o6zwbfxHEH1ry46hlo1_400.gif "Crunz4Corn")
+![alt text](http://68.media.tumblr.com/b876f0255dd33ce56f9623762d079551/tumblr_o6zwbfxHEH1ry46hlo1_400.gif "Crunz4Corn")
