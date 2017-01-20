@@ -2,7 +2,7 @@
 HELLO
 ===
 
-![alt text](http://68.media.tumblr.com/d79082d5b69e293b9f68b8f85060104b/tumblr_n7qs5yk3xW1shc7afo1_400.gif "Fire Flavor")
+![alt text](https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/15541481_1269848726406117_5452092303694112056_n.jpg?oh=95112303ba076e218ed9b96e7e6b1f23&oe=590E4794 "Fire Flavor")
 
 
 Things I do
@@ -35,4 +35,4 @@ I don't have a strong concept yet but I'd like to explore anxiety vs. spectacle 
 
 kbye
 
-![alt text](http://68.media.tumblr.com/b876f0255dd33ce56f9623762d079551/tumblr_o6zwbfxHEH1ry46hlo1_400.gif "Crunz4Corn")
+![alt text](http://68.media.tumblr.com/d8902922ad63d812da841ab9aa82653b/tumblr_nb6z4n0sNh1qlitoio1_1280.gif "Later losers")
