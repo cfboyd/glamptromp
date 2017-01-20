@@ -1,6 +1,8 @@
 # glamptromp
-ME
+HELLO
 ===
+
+![alt text](http://68.media.tumblr.com/d79082d5b69e293b9f68b8f85060104b/tumblr_n7qs5yk3xW1shc7afo1_400.gif "Fire Flavor")
 
 
 Things I do
@@ -32,4 +34,5 @@ I don't have a strong concept yet but I'd like to explore anxiety vs. spectacle 
 
 
 kbye
+
 ![alt text](http://68.media.tumblr.com/b876f0255dd33ce56f9623762d079551/tumblr_o6zwbfxHEH1ry46hlo1_400.gif "Crunz4Corn")
