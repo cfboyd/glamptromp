@@ -1,10 +1,12 @@
 # glamptromp
 
-<h1>Witchery</h1>
+Witchery
+=========
 
-<h2>a poem by me</h2>
+a poem by me
+-------------
 
-<p>Yes it was a witch you saw
+Yes it was a witch you saw
 sashaying from her perch
 on the knotted pine
 to my exposed shoulder
@@ -16,9 +18,9 @@ long enough to whisper
 in one ear
 with a ragged wing wrapping
 the other
-an ancient pointless riddle</p>
+an ancient pointless riddle
 
-<p>Of course I followed
+Of course I followed
 her loping step and
 sallow beckoning finger
 through Bony Wood
@@ -31,7 +33,9 @@ in her creaking
 wrought-iron four-poster
 fucked but
 it wasn't cheating
-We were on a break</p>
+We were on a break
 
-<h2>INSPIRATIONS</h2>
-<p>Architect and Artist <a href="http://www.lebbeuswoods.net/" title="Lebbeus Woods">
+INSPIRATIONS
+-------------
+
+Architect and Artist [Lebbeus Woods](http://www.lebbeuswoods.net/)
