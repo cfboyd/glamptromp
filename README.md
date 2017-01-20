@@ -27,7 +27,7 @@ of the crabapple tree
 at the center of the maze
           and candlelit we
           in her creaking
-     wrought-iron Cal King
+     wrought-iron four-poster
                fucked but
           it wasn't cheating
           We were on a break
