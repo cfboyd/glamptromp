@@ -30,7 +30,7 @@ What I'd like to Do in CCI
 --------------------------
 Create a command center where a user can interact physically with parameters of a multimedia installation.
 
-I don't have a strong concept yet but I'd like to explore anxiety vs. spectacle through empowering users to tune the artificial environment and the level and pace of stimulation to their comfort level.
+I don't have a *strong* concept yet but I'd like to explore anxiety vs. spectacle through empowering users to tune the artificial environment and the level and pace of stimulation to their comfort level.
 
 
 kbye!
