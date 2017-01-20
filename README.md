@@ -33,6 +33,6 @@ Create a command center where a user can interact physically with parameters of 
 I don't have a strong concept yet but I'd like to explore anxiety vs. spectacle through empowering users to tune the artificial environment and the level and pace of stimulation to their comfort level.
 
 
-kbye
+kbye!
 
 ![alt text](http://68.media.tumblr.com/d8902922ad63d812da841ab9aa82653b/tumblr_nb6z4n0sNh1qlitoio1_1280.gif "Later losers")
